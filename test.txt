@@ -1,4 +1,4 @@
-happy thank yo yououo
+happy yo yououo
 commit 하기
 commit  상태를 기록하기
 충돌 만들기
